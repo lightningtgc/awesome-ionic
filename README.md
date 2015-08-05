@@ -6,6 +6,6 @@
 
 - [ionic官方教程](http://learn.ionicframework.com/)
 
-- [ngcordova](http://ngcordova.com/)
+- [ngCordova](http://ngcordova.com/)
 
 - [ngCordova插件集](http://ngcordova.com/docs/plugins/) 
