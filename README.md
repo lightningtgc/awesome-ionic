@@ -10,8 +10,8 @@
 
 - [ionic官方教程](http://learn.ionicframework.com/)
 
-- [codepen代码演示](http://codepen.io/ionic/)
-- 
+- [CodePen代码演示](http://codepen.io/ionic/)
+
 - [ngCordova](http://ngcordova.com/)
 
 - [ngCordova插件集](http://ngcordova.com/docs/plugins/) 
