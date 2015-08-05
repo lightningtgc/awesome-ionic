@@ -1,2 +1,3 @@
 # awesome-ionic
-Information about ionic
+
+- [ngcordova](http://ngcordova.com/)
