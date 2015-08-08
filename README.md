@@ -15,3 +15,6 @@
 - [ngCordova](http://ngcordova.com/)
 
 - [ngCordova插件集](http://ngcordova.com/docs/plugins/) 
+
+- [Forum](http://forum.ionicframework.com/) 
+
