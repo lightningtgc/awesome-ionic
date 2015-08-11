@@ -18,3 +18,6 @@
 
 - [论坛](http://forum.ionicframework.com/) 
 
+## 工具
+
+- [ionic命令行工具](https://github.com/driftyco/ionic-cli)
