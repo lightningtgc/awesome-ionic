@@ -12,15 +12,18 @@
 
 - [CodePen代码演示](http://codepen.io/ionic/)
 
-- [ngCordova](http://ngcordova.com/)
 
-- [ngCordova插件集](http://ngcordova.com/docs/plugins/) 
 
 - [论坛](http://forum.ionicframework.com/) 
 
 ## 工具
 
 - [ionic命令行工具](https://github.com/driftyco/ionic-cli)
+
+- [ngCordova插件集](http://ngcordova.com/docs/plugins/)
+
+- [ionic view](https://apps.ionic.io/view-app)
+
 
 ## 测试相关
 
