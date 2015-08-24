@@ -12,8 +12,6 @@
 
 - [CodePen代码演示](http://codepen.io/ionic/)
 
-
-
 - [论坛](http://forum.ionicframework.com/) 
 
 ## 工具
